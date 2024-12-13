@@ -25,3 +25,7 @@ func Bark1() string {
 func Bark2() string {
 	return "Hello from v1.2"
 }
+
+func Bark3() string {
+	return "Hello from v1.3"
+}
