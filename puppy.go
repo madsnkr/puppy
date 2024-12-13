@@ -21,3 +21,7 @@ func BigBarks() string {
 func Bark1() string {
 	return "Hello from v1"
 }
+
+func Bark2() string {
+	return "Hello from v1.2"
+}
